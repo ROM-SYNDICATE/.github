@@ -1,8 +1,7 @@
-# 🚀 Rom Syndicate
+**Bem-vindos à Rom Syndicate!** 
 
-![Banner](./img/BannerGithub.png)
+![Banner](./Img/BannerGithub.png)
 
-**Bem-vindos à Rom Syndicate!** Somos um grupo focado na tradução e modificação de jogos clássicos, com o objetivo de tornar títulos memoráveis acessíveis a todos os jogadores, respeitando sempre a obra original.
 
 ---
 
@@ -18,13 +17,12 @@ Seguindo a filosofia de colaboração e transparência, a **Rom Syndicate** não
 Aqui estão alguns dos sistemas e jogos em que estamos trabalhando ou que já concluímos:
 
 | Sistema | Jogo | Status |
-| :--- | :--- | :--- |
-| **GBA** | Tony Hawk's Pro Skater 3 | Pronto |
-| **GBC** | Turok 2: Seeds of Evil | Pronto |
-| **GB** | Turok - Battle of the Bionosaurs | Pronto |
-| **GBA** | Tony Hawk's Underground | Em processo |
-| **PS1** | Initial D | Investigação Técnica |
-
+| :---: | :--- | :--- |
+| <img src="./Img/gba.png" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
+| <img src="./Img/gbc.png" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
+| <img src="./Img/gbc.png" width="40"> | Turok - Battle of the Bionosaurs | Pronto |
+| <img src="./Img/gba.png" width="40"> | Tony Hawk's Underground | Em andamento |
+| <img src="./Img/psx.png" width="30"> | Initial D | Investigação Técnica |
 ---
 
 ### 🤝 Colaboração e Créditos
@@ -41,6 +39,4 @@ Estamos sempre à procura de entusiastas, sejam tradutores, revisores ou hackers
 [![Discord](https://img.shields.io/badge/Discord-Junte--se%20a%20nós-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/j9WG5ceJ)
 
 ---
-
 *“Preservando a história dos videogames, uma string por vez.”*
-
