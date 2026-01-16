@@ -12,6 +12,7 @@
 | <img src="./Img/gbc.png" width="40"> | [Turok 2: Seeds of Evil](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) | Pronto |
 | <img src="./Img/gbc.png" width="40"> | [Turok - Battle of the Bionosaurs](https://github.com/ROM-SYNDICATE/Turok-Battle-of-the-Bionosaurs-GBC-PTBR) | Pronto |
 | <img src="./Img/gbc.png" width="40"> | [Driver](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) | Em andamento |
+| <img src="./Img/n64.png" width="30"> | [Shadowgate 64 : Trials of the Four Towers](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) | Em andamento |
 | <img src="./Img/gba.png" width="40"> | Tony Hawk's Underground | Em andamento |
 | <img src="./Img/psx.png" width="30"> | Initial D | Investigação Técnica |
 
@@ -37,6 +38,7 @@ Estamos sempre à procura de entusiastas, sejam tradutores, revisores ou hackers
 
 [![Website](https://img.shields.io/badge/Website-RomSyndicate-blue?style=for-the-badge)](https://romsyndicate.vercel.app/index.html) 
 [![Discord](https://img.shields.io/badge/Discord-Junte--se%20a%20nós-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/j9WG5ceJ)
+
 
 
 
